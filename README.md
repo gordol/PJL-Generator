@@ -9,7 +9,7 @@ generate_commands(ssid, enc_key, enc_type='wpa2', enc_mode='aes')
 Output is a PJL text buffer to be sent to the printer. 
 
 
-PJL is "Printer Job Language". You can find a manual from HP about PJL (here)[http://h10032.www1.hp.com/ctg/Manual/bpl13208.pdf].
+PJL is "Printer Job Language". You can find a manual from HP about PJL [here](http://h10032.www1.hp.com/ctg/Manual/bpl13208.pdf).
 
 
 However, every printer manufacturer has their own internal command set. To help with that, you can find a manual from Brother [here](http://download.brother.com/welcome/docp000487/cv_ql720nw_ruseng_net_0.pdf).
