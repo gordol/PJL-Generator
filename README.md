@@ -3,7 +3,7 @@
 ```python
 generate_commands(ssid, enc_key, enc_type='wpa2', enc_mode='aes')
 ```
-- SSID and encryption key are required fields.
+- SSID and encryption key are required inputs.
 - Encryption type defaults to WPA2, and mode defaults to AES. Either can be overriden as kwargs if desired.
 
 Output is a PJL text buffer to be sent to the printer. 
